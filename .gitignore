@@ -1,0 +1,6 @@
+.DS_Store
+runs/detect
+.venv
+.vscode
+genderTrain.ipynb
+__pycache__
